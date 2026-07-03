@@ -1,0 +1,10 @@
+Python
+Java
+SQL
+Git
+Docker
+REST API
+Flask
+Django
+Data Structures
+Algorithms

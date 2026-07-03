@@ -1,0 +1,11 @@
+Python
+NLP
+TensorFlow
+PyTorch
+Deep Learning
+Machine Learning
+OpenCV
+Flask
+FastAPI
+Docker
+AWS

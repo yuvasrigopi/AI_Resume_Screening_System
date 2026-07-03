@@ -1,0 +1,10 @@
+Python
+Machine Learning
+Deep Learning
+Pandas
+NumPy
+Matplotlib
+TensorFlow
+Scikit Learn
+Statistics
+SQL
